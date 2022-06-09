@@ -1,0 +1,114 @@
+[
+  {
+    "_id": "62a0da9203757c14d15054c2",
+    "date": "2017-11-29",
+    "name": "FIBRODYNE",
+    "count": 61,
+    "distance": 299
+  },
+  {
+    "_id": "62a0da92930a7cb46a4b48ae",
+    "date": "2019-01-03",
+    "name": "TALKALOT",
+    "count": 63,
+    "distance": 332
+  },
+  {
+    "_id": "62a0da920afb3d2f84378aa1",
+    "date": "2021-02-25",
+    "name": "ECLIPSENT",
+    "count": 86,
+    "distance": 718
+  },
+  {
+    "_id": "62a0da92dfe9476b4261903d",
+    "date": "2016-08-23",
+    "name": "DAYCORE",
+    "count": 24,
+    "distance": 649
+  },
+  {
+    "_id": "62a0da92c80e0b681fe078d4",
+    "date": "2015-06-18",
+    "name": "HOMETOWN",
+    "count": 54,
+    "distance": 341
+  },
+  {
+    "_id": "62a0da92b588d1bf790ed9ee",
+    "date": "2021-12-20",
+    "name": "DIGIRANG",
+    "count": 63,
+    "distance": 881
+  },
+  {
+    "_id": "62a0da92fd77486cd36e00be",
+    "date": "2021-11-15",
+    "name": "GEEKFARM",
+    "count": 71,
+    "distance": 209
+  },
+  {
+    "_id": "62a0da92687b981f2e2c8fe8",
+    "date": "2015-03-19",
+    "name": "ISODRIVE",
+    "count": 64,
+    "distance": 757
+  },
+  {
+    "_id": "62a0da92bef393d85069d86b",
+    "date": "2015-01-22",
+    "name": "PRIMORDIA",
+    "count": 34,
+    "distance": 359
+  },
+  {
+    "_id": "62a0da9208c86c407d81b931",
+    "date": "2016-09-03",
+    "name": "GEOFORMA",
+    "count": 60,
+    "distance": 445
+  },
+  {
+    "_id": "62a0da926bc34ead79ea4698",
+    "date": "2014-12-31",
+    "name": "EWEVILLE",
+    "count": 80,
+    "distance": 637
+  },
+  {
+    "_id": "62a0da92d25b08a9e26a90f5",
+    "date": "2015-06-20",
+    "name": "QUANTASIS",
+    "count": 56,
+    "distance": 321
+  },
+  {
+    "_id": "62a0da92567060b72fddf1f1",
+    "date": "2020-09-10",
+    "name": "INDEXIA",
+    "count": 40,
+    "distance": 575
+  },
+  {
+    "_id": "62a0da92584581c1acc8ac34",
+    "date": "2020-02-24",
+    "name": "FUELWORKS",
+    "count": 84,
+    "distance": 286
+  },
+  {
+    "_id": "62a0da92b9e6c0b8cab3daa0",
+    "date": "2018-12-22",
+    "name": "KNOWLYSIS",
+    "count": 53,
+    "distance": 449
+  },
+  {
+    "_id": "62a0da9245378d6bb598e2c1",
+    "date": "2020-06-28",
+    "name": "ENERSAVE",
+    "count": 20,
+    "distance": 504
+  }
+]
