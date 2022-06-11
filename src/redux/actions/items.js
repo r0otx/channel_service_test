@@ -2,7 +2,8 @@ import {
     SET_DATA,
     GET_DATA,
     SET_LOADING,
-    SET_ERROR
+    SET_ERROR,
+    SET_SORT
 } from "../constants";
 
 export const getData = () => ({
@@ -21,5 +22,10 @@ export const setLoading = (payload) => ({
 
 export const setError = (payload) => ({
     type: SET_ERROR,
+    payload
+})
+
+export const setSortActionCreator = (payload) => ({
+    type: SET_SORT,
     payload
 })

@@ -6,16 +6,18 @@ const TableFilters = ({sort, setSort}) => {
     return (
         <div>
             <MySelect
+                className="main__sort-item"
                 value={sort.attrSort}
                 defaultValue={"Сортировать по:"}
                 options={[
                     {value: "name", name: "Названию"},
                     {value: "count", name: "Количеству"},
-                    {value: "distance", name: "Расстоянию"},
+                    {value: "dist", name: "Расстоянию"},
                 ]}
                 onChange={attrSort => setSort({...sort, attrSort})}
             />
             <MySelect
+                className="main__sort-item"
                 value={sort.logicSort}
                 defaultValue={"Сортировать по:"}
                 options={[
@@ -27,8 +29,9 @@ const TableFilters = ({sort, setSort}) => {
                 onChange={logicSort => setSort({...sort, logicSort})}
             />
             <MyInput
-                onChange={evt => setSort({...sort, input: evt.target.value})}
-                value={sort.input}
+                className="main__sort-item"
+                onChange={evt => setSort({...sort, searchQuery: evt.target.value})}
+                value={sort.searchQuery}
                 placeholder={"Фильтровать по"}/>
         </div>
     );
