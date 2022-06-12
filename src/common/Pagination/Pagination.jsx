@@ -1,11 +1,12 @@
 import React, {useEffect, useState} from "react";
+import s from "./Pagination.module.scss";
 import MyButton from "../MyButton/MyButton";
 
 const Pagination = ({pagination, setPagination, totalItemsCount}) => {
 
     const [page, setPage] = useState(1);
 
-    const itemsPerPage = 10;
+    const itemsPerPage = 15;
     const pagesCount = Math.ceil(totalItemsCount / itemsPerPage);
 
     const lastIndex = page * itemsPerPage;
@@ -18,18 +19,21 @@ const Pagination = ({pagination, setPagination, totalItemsCount}) => {
 
     useEffect(() => {
         setPagination({...pagination, firstIndex, lastIndex});
-    }, [totalItemsCount, page])
+    }, [totalItemsCount, page]);
 
     return (
         <div>
-            {page === 1
+            {parseInt(page) === 1
                 ? <div></div>
-                : <MyButton onClick={() => setPage(parseInt(page) - 1)}>Prev</MyButton>
+                : <MyButton className={s.pagination} onClick={() => setPage(parseInt(page) - 1)}>Prev</MyButton>
             }
             {pagesNum.map(el =>
-                <MyButton key={el} onClick={() => setPage(el)}>{el}</MyButton>
+                <MyButton className={s.pagination} key={el} onClick={() => setPage(el)}>{el}</MyButton>
             )}
-            <MyButton onClick={() => setPage(parseInt(page) + 1)}>Next</MyButton>
+            {parseInt(pagesCount) === parseInt(page)
+                ? <div></div>
+                : <MyButton className={s.pagination} onClick={() => setPage(parseInt(page) + 1)}>Next</MyButton>
+            }
         </div>
     );
 };
