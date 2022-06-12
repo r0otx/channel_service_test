@@ -1,114 +1,1402 @@
 [
   {
-    "id": "62a0da9203757c14d15054c2",
-    "date": "2017-11-29",
-    "name": "FIBRODYNE",
-    "count": 61,
-    "dist": 299
+    "id": "62a4cae272618af7dc5f6fd0",
+    "date": "2019-05-30",
+    "name": "RAMEON",
+    "count": 37,
+    "dist": 586
   },
   {
-    "id": "62a0da92930a7cb46a4b48ae",
-    "date": "2019-01-03",
-    "name": "TALKALOT",
-    "count": 63,
-    "dist": 332
-  },
-  {
-    "id": "62a0da920afb3d2f84378aa1",
-    "date": "2021-02-25",
-    "name": "ECLIPSENT",
-    "count": 86,
-    "dist": 718
-  },
-  {
-    "id": "62a0da92dfe9476b4261903d",
-    "date": "2016-08-23",
-    "name": "DAYCORE",
-    "count": 24,
-    "dist": 649
-  },
-  {
-    "id": "62a0da92c80e0b681fe078d4",
-    "date": "2015-06-18",
-    "name": "HOMETOWN",
-    "count": 54,
-    "dist": 341
-  },
-  {
-    "id": "62a0da92b588d1bf790ed9ee",
-    "date": "2021-12-20",
-    "name": "DIGIRANG",
-    "count": 63,
-    "dist": 881
-  },
-  {
-    "id": "62a0da92fd77486cd36e00be",
-    "date": "2021-11-15",
-    "name": "GEEKFARM",
-    "count": 71,
-    "dist": 209
-  },
-  {
-    "id": "62a0da92687b981f2e2c8fe8",
-    "date": "2015-03-19",
-    "name": "ISODRIVE",
-    "count": 64,
-    "dist": 757
-  },
-  {
-    "id": "62a0da92bef393d85069d86b",
-    "date": "2015-01-22",
-    "name": "PRIMORDIA",
-    "count": 34,
-    "dist": 359
-  },
-  {
-    "id": "62a0da9208c86c407d81b931",
-    "date": "2016-09-03",
-    "name": "GEOFORMA",
-    "count": 60,
-    "dist": 445
-  },
-  {
-    "id": "62a0da926bc34ead79ea4698",
-    "date": "2014-12-31",
-    "name": "EWEVILLE",
-    "count": 80,
-    "dist": 637
-  },
-  {
-    "id": "62a0da92d25b08a9e26a90f5",
-    "date": "2015-06-20",
-    "name": "QUANTASIS",
+    "id": "62a4cae2bd3553e00da2c445",
+    "date": "2019-08-06",
+    "name": "SARASONIC",
     "count": 56,
-    "dist": 321
+    "dist": 334
   },
   {
-    "id": "62a0da92567060b72fddf1f1",
-    "date": "2020-09-10",
-    "name": "INDEXIA",
+    "id": "62a4cae2c2d4df827b89e2ef",
+    "date": "2019-08-23",
+    "name": "VURBO",
+    "count": 38,
+    "dist": 742
+  },
+  {
+    "id": "62a4cae222d015e1306d3173",
+    "date": "2019-07-30",
+    "name": "EXOBLUE",
     "count": 40,
+    "dist": 754
+  },
+  {
+    "id": "62a4cae2472ecba9e87a713f",
+    "date": "2020-05-02",
+    "name": "TSUNAMIA",
+    "count": 86,
+    "dist": 618
+  },
+  {
+    "id": "62a4cae2956a57add035179b",
+    "date": "2019-08-06",
+    "name": "MENBRAIN",
+    "count": 33,
+    "dist": 599
+  },
+  {
+    "id": "62a4cae2a512d8acf816b29d",
+    "date": "2020-03-01",
+    "name": "COMTREK",
+    "count": 32,
+    "dist": 761
+  },
+  {
+    "id": "62a4cae228445749e0eeca5f",
+    "date": "2014-10-22",
+    "name": "ISOTRONIC",
+    "count": 68,
+    "dist": 876
+  },
+  {
+    "id": "62a4cae2b524996d46a47fbb",
+    "date": "2016-07-21",
+    "name": "XURBAN",
+    "count": 90,
+    "dist": 427
+  },
+  {
+    "id": "62a4cae2a7e8fc818593b7cb",
+    "date": "2019-03-04",
+    "name": "REPETWIRE",
+    "count": 61,
+    "dist": 803
+  },
+  {
+    "id": "62a4cae25d33c87df8d5cbea",
+    "date": "2017-02-26",
+    "name": "PHOTOBIN",
+    "count": 75,
+    "dist": 285
+  },
+  {
+    "id": "62a4cae2bc69f9eb698ce597",
+    "date": "2014-03-17",
+    "name": "IMANT",
+    "count": 84,
+    "dist": 719
+  },
+  {
+    "id": "62a4cae21b96b927e7124db1",
+    "date": "2014-01-03",
+    "name": "AFFLUEX",
+    "count": 28,
+    "dist": 770
+  },
+  {
+    "id": "62a4cae29298283bdf9cffe0",
+    "date": "2016-03-06",
+    "name": "OPTIQUE",
+    "count": 49,
+    "dist": 635
+  },
+  {
+    "id": "62a4cae288c5f3fe5437666d",
+    "date": "2014-12-05",
+    "name": "KRAG",
+    "count": 38,
+    "dist": 241
+  },
+  {
+    "id": "62a4cae2a67b41b79d854562",
+    "date": "2016-01-12",
+    "name": "EXODOC",
+    "count": 48,
+    "dist": 737
+  },
+  {
+    "id": "62a4cae22276137c0cc3315b",
+    "date": "2021-02-17",
+    "name": "GLASSTEP",
+    "count": 88,
+    "dist": 752
+  },
+  {
+    "id": "62a4cae2c58582fb491f1ddd",
+    "date": "2017-08-05",
+    "name": "EVENTIX",
+    "count": 56,
+    "dist": 538
+  },
+  {
+    "id": "62a4cae2995490f5b2f0df21",
+    "date": "2021-04-11",
+    "name": "SULTRAXIN",
+    "count": 82,
+    "dist": 363
+  },
+  {
+    "id": "62a4cae2927b369bcf219426",
+    "date": "2020-12-09",
+    "name": "UNISURE",
+    "count": 69,
+    "dist": 569
+  },
+  {
+    "id": "62a4cae2245deb12fc313480",
+    "date": "2017-08-23",
+    "name": "EXTRAWEAR",
+    "count": 38,
+    "dist": 535
+  },
+  {
+    "id": "62a4cae21dda46930b687cc0",
+    "date": "2022-01-29",
+    "name": "BLUPLANET",
+    "count": 60,
+    "dist": 423
+  },
+  {
+    "id": "62a4cae22f0b10a0c34a216e",
+    "date": "2014-03-08",
+    "name": "FIBEROX",
+    "count": 60,
+    "dist": 270
+  },
+  {
+    "id": "62a4cae22effb90ac6cfcee0",
+    "date": "2020-12-13",
+    "name": "CANOPOLY",
+    "count": 42,
+    "dist": 606
+  },
+  {
+    "id": "62a4cae2ec12fc594f6f5460",
+    "date": "2017-09-09",
+    "name": "VELITY",
+    "count": 20,
+    "dist": 811
+  },
+  {
+    "id": "62a4cae2b2bcafec2ffb2d85",
+    "date": "2014-11-06",
+    "name": "GALLAXIA",
+    "count": 55,
+    "dist": 309
+  },
+  {
+    "id": "62a4cae2f2a6552cedc4f1a2",
+    "date": "2020-06-03",
+    "name": "MICRONAUT",
+    "count": 73,
+    "dist": 643
+  },
+  {
+    "id": "62a4cae223d2a965d6e55ae5",
+    "date": "2018-02-14",
+    "name": "STUCCO",
+    "count": 88,
+    "dist": 653
+  },
+  {
+    "id": "62a4cae241ec3e014c0c7b88",
+    "date": "2021-01-06",
+    "name": "HONOTRON",
+    "count": 52,
+    "dist": 319
+  },
+  {
+    "id": "62a4cae256316d19d0d17484",
+    "date": "2015-03-13",
+    "name": "SENMEI",
+    "count": 39,
+    "dist": 656
+  },
+  {
+    "id": "62a4cae2f3dc690a7b119267",
+    "date": "2014-02-05",
+    "name": "MONDICIL",
+    "count": 69,
+    "dist": 577
+  },
+  {
+    "id": "62a4cae2eba95f5a7ae893f6",
+    "date": "2020-09-11",
+    "name": "JIMBIES",
+    "count": 78,
+    "dist": 574
+  },
+  {
+    "id": "62a4cae218a0a696a4cacf58",
+    "date": "2021-08-29",
+    "name": "EMPIRICA",
+    "count": 57,
+    "dist": 702
+  },
+  {
+    "id": "62a4cae2d46fb7f0591354c8",
+    "date": "2016-05-26",
+    "name": "EXOSPEED",
+    "count": 29,
+    "dist": 219
+  },
+  {
+    "id": "62a4cae2b13e66a8e62dfe83",
+    "date": "2021-06-06",
+    "name": "MARKETOID",
+    "count": 24,
+    "dist": 452
+  },
+  {
+    "id": "62a4cae2b050378b33b99790",
+    "date": "2020-11-03",
+    "name": "PAPRIKUT",
+    "count": 71,
+    "dist": 358
+  },
+  {
+    "id": "62a4cae288c62e24aecd09be",
+    "date": "2020-08-24",
+    "name": "FRENEX",
+    "count": 68,
+    "dist": 614
+  },
+  {
+    "id": "62a4cae2b3375fb798ac3863",
+    "date": "2018-01-05",
+    "name": "GEEKFARM",
+    "count": 22,
+    "dist": 632
+  },
+  {
+    "id": "62a4cae20233207416aa656e",
+    "date": "2021-02-03",
+    "name": "AMTAS",
+    "count": 51,
+    "dist": 860
+  },
+  {
+    "id": "62a4cae2a525c7f9e4e9b873",
+    "date": "2017-05-14",
+    "name": "ZENTURY",
+    "count": 48,
+    "dist": 734
+  },
+  {
+    "id": "62a4cae2926facd3cade5035",
+    "date": "2020-07-20",
+    "name": "BUZZOPIA",
+    "count": 82,
+    "dist": 399
+  },
+  {
+    "id": "62a4cae2c86e5cc0262ab8e0",
+    "date": "2016-04-09",
+    "name": "ADORNICA",
+    "count": 65,
+    "dist": 768
+  },
+  {
+    "id": "62a4cae210b6b6fbc6a310fd",
+    "date": "2017-06-05",
+    "name": "INQUALA",
+    "count": 66,
+    "dist": 364
+  },
+  {
+    "id": "62a4cae258381025295b4b4e",
+    "date": "2016-03-20",
+    "name": "ACRODANCE",
+    "count": 60,
+    "dist": 781
+  },
+  {
+    "id": "62a4cae254a4847310cfb3b3",
+    "date": "2020-06-21",
+    "name": "SUSTENZA",
+    "count": 64,
+    "dist": 267
+  },
+  {
+    "id": "62a4cae20f932b948206d465",
+    "date": "2021-11-18",
+    "name": "RECOGNIA",
+    "count": 38,
+    "dist": 411
+  },
+  {
+    "id": "62a4cae202d171fcc0728d81",
+    "date": "2017-04-30",
+    "name": "INCUBUS",
+    "count": 89,
+    "dist": 319
+  },
+  {
+    "id": "62a4cae20e74e69d637c0d4f",
+    "date": "2014-01-21",
+    "name": "PARCOE",
+    "count": 89,
+    "dist": 546
+  },
+  {
+    "id": "62a4cae287b96e32743ea67e",
+    "date": "2020-09-19",
+    "name": "ZILLATIDE",
+    "count": 72,
+    "dist": 802
+  },
+  {
+    "id": "62a4cae2902ec47477d8b980",
+    "date": "2018-03-20",
+    "name": "RECRISYS",
+    "count": 42,
+    "dist": 338
+  },
+  {
+    "id": "62a4cae2f09adee1d88d33da",
+    "date": "2014-09-25",
+    "name": "GUSHKOOL",
+    "count": 83,
+    "dist": 703
+  },
+  {
+    "id": "62a4cae224f50c04556b648e",
+    "date": "2015-05-07",
+    "name": "ZILLA",
+    "count": 30,
+    "dist": 864
+  },
+  {
+    "id": "62a4cae2d563bf498103d150",
+    "date": "2019-04-18",
+    "name": "FLUMBO",
+    "count": 46,
+    "dist": 660
+  },
+  {
+    "id": "62a4cae2c6efcbe8cf9977f2",
+    "date": "2014-06-08",
+    "name": "INEAR",
+    "count": 89,
+    "dist": 301
+  },
+  {
+    "id": "62a4cae2300706e0b974b884",
+    "date": "2019-07-04",
+    "name": "NEWCUBE",
+    "count": 86,
+    "dist": 342
+  },
+  {
+    "id": "62a4cae2df8519f83354fd5c",
+    "date": "2018-03-21",
+    "name": "ESCHOIR",
+    "count": 35,
+    "dist": 880
+  },
+  {
+    "id": "62a4cae22fc42c4d13ed075c",
+    "date": "2015-08-11",
+    "name": "GEEKY",
+    "count": 59,
+    "dist": 307
+  },
+  {
+    "id": "62a4cae289137159596006a8",
+    "date": "2020-06-03",
+    "name": "BIOHAB",
+    "count": 47,
+    "dist": 481
+  },
+  {
+    "id": "62a4cae202c483fc19889a64",
+    "date": "2017-07-06",
+    "name": "PLASMOSIS",
+    "count": 77,
+    "dist": 844
+  },
+  {
+    "id": "62a4cae2f5389f35f92e2d52",
+    "date": "2014-12-29",
+    "name": "CORECOM",
+    "count": 20,
+    "dist": 896
+  },
+  {
+    "id": "62a4cae2441df20c861e1cce",
+    "date": "2017-08-27",
+    "name": "INTRAWEAR",
+    "count": 62,
+    "dist": 440
+  },
+  {
+    "id": "62a4cae2ed0c89b25369c8f4",
+    "date": "2018-11-17",
+    "name": "SLUMBERIA",
+    "count": 69,
+    "dist": 762
+  },
+  {
+    "id": "62a4cae20ddfe74bc263c92c",
+    "date": "2020-01-13",
+    "name": "NEPTIDE",
+    "count": 78,
+    "dist": 860
+  },
+  {
+    "id": "62a4cae24c16dadb40e5f39e",
+    "date": "2014-07-30",
+    "name": "ACCUSAGE",
+    "count": 54,
+    "dist": 820
+  },
+  {
+    "id": "62a4cae2ba5bcff488c4250b",
+    "date": "2016-01-16",
+    "name": "MAKINGWAY",
+    "count": 81,
+    "dist": 793
+  },
+  {
+    "id": "62a4cae2851bbef3dd9f2146",
+    "date": "2015-04-25",
+    "name": "FARMAGE",
+    "count": 23,
+    "dist": 548
+  },
+  {
+    "id": "62a4cae2427298fb86bbd252",
+    "date": "2019-12-28",
+    "name": "XINWARE",
+    "count": 88,
+    "dist": 535
+  },
+  {
+    "id": "62a4cae2f06f2ba078d3b73b",
+    "date": "2020-02-25",
+    "name": "ANARCO",
+    "count": 70,
+    "dist": 541
+  },
+  {
+    "id": "62a4cae2609b26778132d053",
+    "date": "2016-02-15",
+    "name": "QUANTALIA",
+    "count": 67,
+    "dist": 355
+  },
+  {
+    "id": "62a4cae268605fa75b510fc3",
+    "date": "2021-02-15",
+    "name": "XYLAR",
+    "count": 35,
+    "dist": 514
+  },
+  {
+    "id": "62a4cae2778bc16d5aec5e41",
+    "date": "2022-02-01",
+    "name": "TERRAGEN",
+    "count": 33,
+    "dist": 596
+  },
+  {
+    "id": "62a4cae2ad1b5bf416e3466a",
+    "date": "2014-11-09",
+    "name": "XELEGYL",
+    "count": 22,
+    "dist": 204
+  },
+  {
+    "id": "62a4cae26368cb4bcf17f3b1",
+    "date": "2018-02-07",
+    "name": "OHMNET",
+    "count": 69,
+    "dist": 220
+  },
+  {
+    "id": "62a4cae20da8f7cdcdb3e996",
+    "date": "2019-06-30",
+    "name": "REALYSIS",
+    "count": 22,
+    "dist": 265
+  },
+  {
+    "id": "62a4cae2fd249b1ebb40a4c0",
+    "date": "2014-09-14",
+    "name": "SINGAVERA",
+    "count": 27,
+    "dist": 230
+  },
+  {
+    "id": "62a4cae25c5b367be710c963",
+    "date": "2018-07-20",
+    "name": "ZEPITOPE",
+    "count": 27,
+    "dist": 523
+  },
+  {
+    "id": "62a4cae26957d683744fce21",
+    "date": "2019-07-06",
+    "name": "LUNCHPAD",
+    "count": 68,
+    "dist": 667
+  },
+  {
+    "id": "62a4cae26a9feeea2f967409",
+    "date": "2020-01-01",
+    "name": "COLUMELLA",
+    "count": 46,
+    "dist": 497
+  },
+  {
+    "id": "62a4cae277dd548e3c5d1bf7",
+    "date": "2015-06-04",
+    "name": "GOLISTIC",
+    "count": 39,
+    "dist": 529
+  },
+  {
+    "id": "62a4cae22dcb092e628e42c0",
+    "date": "2022-01-11",
+    "name": "PETIGEMS",
+    "count": 80,
+    "dist": 386
+  },
+  {
+    "id": "62a4cae2d96dac4fcdc222fe",
+    "date": "2021-11-04",
+    "name": "CORPULSE",
+    "count": 47,
+    "dist": 434
+  },
+  {
+    "id": "62a4cae20d96189f7b4735d7",
+    "date": "2017-09-26",
+    "name": "UNDERTAP",
+    "count": 39,
+    "dist": 821
+  },
+  {
+    "id": "62a4cae20c5f0432ef415556",
+    "date": "2021-02-19",
+    "name": "ROCKYARD",
+    "count": 51,
+    "dist": 417
+  },
+  {
+    "id": "62a4cae2ab0436cf43ac9f1e",
+    "date": "2014-08-25",
+    "name": "XYMONK",
+    "count": 37,
+    "dist": 657
+  },
+  {
+    "id": "62a4cae2ceed6ffec55cc3a6",
+    "date": "2016-01-02",
+    "name": "ELECTONIC",
+    "count": 53,
+    "dist": 520
+  },
+  {
+    "id": "62a4cae229376f492847a594",
+    "date": "2015-06-29",
+    "name": "AQUACINE",
+    "count": 85,
+    "dist": 588
+  },
+  {
+    "id": "62a4cae2c4d781b6fdb0620f",
+    "date": "2020-02-21",
+    "name": "MANTRO",
+    "count": 55,
     "dist": 575
   },
   {
-    "id": "62a0da92584581c1acc8ac34",
-    "date": "2020-02-24",
-    "name": "FUELWORKS",
-    "count": 84,
-    "dist": 286
+    "id": "62a4cae271f5e2c6b00d1122",
+    "date": "2019-03-13",
+    "name": "PEARLESSA",
+    "count": 54,
+    "dist": 292
   },
   {
-    "id": "62a0da92b9e6c0b8cab3daa0",
-    "date": "2018-12-22",
-    "name": "KNOWLYSIS",
+    "id": "62a4cae25f3a8326ad982a05",
+    "date": "2019-06-16",
+    "name": "KOZGENE",
+    "count": 83,
+    "dist": 725
+  },
+  {
+    "id": "62a4cae2c857c0add382a195",
+    "date": "2014-05-26",
+    "name": "QUIZKA",
+    "count": 89,
+    "dist": 281
+  },
+  {
+    "id": "62a4cae2c0671f7eca8b452c",
+    "date": "2018-02-21",
+    "name": "VICON",
     "count": 53,
-    "dist": 449
+    "dist": 247
   },
   {
-    "id": "62a0da9245378d6bb598e2c1",
-    "date": "2020-06-28",
-    "name": "ENERSAVE",
+    "id": "62a4cae24efbfdec1cdcca80",
+    "date": "2021-06-10",
+    "name": "FORTEAN",
+    "count": 74,
+    "dist": 363
+  },
+  {
+    "id": "62a4cae2408edfe467b2c03e",
+    "date": "2021-05-08",
+    "name": "VIASIA",
+    "count": 63,
+    "dist": 223
+  },
+  {
+    "id": "62a4cae205bb19665ff0dd97",
+    "date": "2021-12-11",
+    "name": "CYTREK",
+    "count": 38,
+    "dist": 212
+  },
+  {
+    "id": "62a4cae2201f9a49e66e6026",
+    "date": "2020-10-17",
+    "name": "EMTRAK",
+    "count": 26,
+    "dist": 888
+  },
+  {
+    "id": "62a4cae20cf1cfdb9860132e",
+    "date": "2019-04-16",
+    "name": "ORBEAN",
+    "count": 64,
+    "dist": 707
+  },
+  {
+    "id": "62a4cae257d4b4f636727d91",
+    "date": "2020-03-20",
+    "name": "GEOLOGIX",
+    "count": 29,
+    "dist": 589
+  },
+  {
+    "id": "62a4cae23418caf2773c3684",
+    "date": "2015-01-07",
+    "name": "ZIDOX",
+    "count": 42,
+    "dist": 570
+  },
+  {
+    "id": "62a4cae2c5fd28c0fedff7bb",
+    "date": "2015-05-27",
+    "name": "EXOTECHNO",
+    "count": 50,
+    "dist": 803
+  },
+  {
+    "id": "62a4cae295dbd341342d2f25",
+    "date": "2015-11-11",
+    "name": "MEDIFAX",
+    "count": 36,
+    "dist": 326
+  },
+  {
+    "id": "62a4cae2fdeb8bd91c11ba21",
+    "date": "2021-05-19",
+    "name": "NUTRALAB",
+    "count": 89,
+    "dist": 475
+  },
+  {
+    "id": "62a4cae2db3b896092a07a69",
+    "date": "2014-01-01",
+    "name": "SKINSERVE",
+    "count": 65,
+    "dist": 765
+  },
+  {
+    "id": "62a4cae2e9a727a7e855677c",
+    "date": "2018-05-09",
+    "name": "KENEGY",
+    "count": 22,
+    "dist": 865
+  },
+  {
+    "id": "62a4cae288b05b32f480faf8",
+    "date": "2014-06-18",
+    "name": "JUNIPOOR",
+    "count": 53,
+    "dist": 862
+  },
+  {
+    "id": "62a4cae2d0ae5754b171f24a",
+    "date": "2018-10-15",
+    "name": "WARETEL",
+    "count": 30,
+    "dist": 385
+  },
+  {
+    "id": "62a4cae22525fca581b87484",
+    "date": "2017-02-24",
+    "name": "EQUITOX",
+    "count": 32,
+    "dist": 746
+  },
+  {
+    "id": "62a4cae275369d9c391aaa22",
+    "date": "2017-11-14",
+    "name": "MIRACULA",
+    "count": 67,
+    "dist": 460
+  },
+  {
+    "id": "62a4cae2eb2c8bdc5745a917",
+    "date": "2018-03-31",
+    "name": "PLASTO",
+    "count": 22,
+    "dist": 615
+  },
+  {
+    "id": "62a4cae2b04a9aa77d929467",
+    "date": "2016-06-20",
+    "name": "UXMOX",
+    "count": 21,
+    "dist": 356
+  },
+  {
+    "id": "62a4cae2a406b89afdfb878d",
+    "date": "2017-05-02",
+    "name": "FURNITECH",
+    "count": 48,
+    "dist": 310
+  },
+  {
+    "id": "62a4cae259e44607806c9c21",
+    "date": "2018-05-18",
+    "name": "SIGNIDYNE",
+    "count": 69,
+    "dist": 206
+  },
+  {
+    "id": "62a4cae2f6c87ce7c27f773b",
+    "date": "2020-03-28",
+    "name": "GADTRON",
+    "count": 68,
+    "dist": 443
+  },
+  {
+    "id": "62a4cae247a90cc1c3aedf2f",
+    "date": "2015-01-19",
+    "name": "MULTRON",
+    "count": 41,
+    "dist": 335
+  },
+  {
+    "id": "62a4cae2066a7eb48ad8d0fd",
+    "date": "2017-04-19",
+    "name": "VETRON",
+    "count": 33,
+    "dist": 265
+  },
+  {
+    "id": "62a4cae22cd6af5b4e4de003",
+    "date": "2016-12-02",
+    "name": "TYPHONICA",
+    "count": 67,
+    "dist": 784
+  },
+  {
+    "id": "62a4cae2ae86f21ee1f3f93b",
+    "date": "2014-07-20",
+    "name": "VIAGRAND",
+    "count": 49,
+    "dist": 435
+  },
+  {
+    "id": "62a4cae2838d80273e04726c",
+    "date": "2016-04-19",
+    "name": "RODEOMAD",
+    "count": 73,
+    "dist": 399
+  },
+  {
+    "id": "62a4cae22410c4173d3758ff",
+    "date": "2019-01-25",
+    "name": "HANDSHAKE",
+    "count": 36,
+    "dist": 520
+  },
+  {
+    "id": "62a4cae2e68cb03d21ecd3ce",
+    "date": "2018-10-27",
+    "name": "SPLINX",
+    "count": 52,
+    "dist": 774
+  },
+  {
+    "id": "62a4cae25a1d0824ac6b34b6",
+    "date": "2014-09-08",
+    "name": "QUILM",
+    "count": 27,
+    "dist": 309
+  },
+  {
+    "id": "62a4cae20682cfd01236eb18",
+    "date": "2015-05-23",
+    "name": "PHUEL",
     "count": 20,
-    "dist": 504
+    "dist": 521
+  },
+  {
+    "id": "62a4cae24d8317554ec837a1",
+    "date": "2017-08-05",
+    "name": "TRIPSCH",
+    "count": 50,
+    "dist": 432
+  },
+  {
+    "id": "62a4cae2909c2aefec19cd9c",
+    "date": "2018-05-04",
+    "name": "XLEEN",
+    "count": 33,
+    "dist": 799
+  },
+  {
+    "id": "62a4cae21d87a5654910846d",
+    "date": "2018-10-22",
+    "name": "ZILODYNE",
+    "count": 79,
+    "dist": 899
+  },
+  {
+    "id": "62a4cae251dddfd4afb25102",
+    "date": "2018-09-18",
+    "name": "NORSUL",
+    "count": 72,
+    "dist": 290
+  },
+  {
+    "id": "62a4cae25d6c8a9ccdeb4d06",
+    "date": "2021-03-03",
+    "name": "PHOLIO",
+    "count": 42,
+    "dist": 561
+  },
+  {
+    "id": "62a4cae213aeb6249d8bdc0b",
+    "date": "2015-03-19",
+    "name": "GRAINSPOT",
+    "count": 85,
+    "dist": 766
+  },
+  {
+    "id": "62a4cae2f6c0279a41620ae4",
+    "date": "2016-02-11",
+    "name": "NEBULEAN",
+    "count": 52,
+    "dist": 362
+  },
+  {
+    "id": "62a4cae2a9f8969709f23e42",
+    "date": "2014-02-10",
+    "name": "SEQUITUR",
+    "count": 76,
+    "dist": 284
+  },
+  {
+    "id": "62a4cae21c5876e33177302f",
+    "date": "2018-09-27",
+    "name": "TURNLING",
+    "count": 70,
+    "dist": 316
+  },
+  {
+    "id": "62a4cae2cded47f3c7aaac63",
+    "date": "2016-05-15",
+    "name": "MUSIX",
+    "count": 83,
+    "dist": 224
+  },
+  {
+    "id": "62a4cae24e46ae55c5db8ff5",
+    "date": "2019-07-19",
+    "name": "GEEKUS",
+    "count": 48,
+    "dist": 501
+  },
+  {
+    "id": "62a4cae2a6557fff0b131c20",
+    "date": "2016-01-23",
+    "name": "ZIPAK",
+    "count": 29,
+    "dist": 371
+  },
+  {
+    "id": "62a4cae26f25bc16edb179ba",
+    "date": "2015-12-17",
+    "name": "ISOLOGICS",
+    "count": 38,
+    "dist": 520
+  },
+  {
+    "id": "62a4cae2fc67ee2b56da089e",
+    "date": "2020-03-04",
+    "name": "ZOSIS",
+    "count": 30,
+    "dist": 747
+  },
+  {
+    "id": "62a4cae2f383c0c68908765f",
+    "date": "2020-07-31",
+    "name": "TERASCAPE",
+    "count": 71,
+    "dist": 877
+  },
+  {
+    "id": "62a4cae2967969a81e6bbf3c",
+    "date": "2014-04-28",
+    "name": "ORBOID",
+    "count": 32,
+    "dist": 894
+  },
+  {
+    "id": "62a4cae2778000822876b419",
+    "date": "2018-11-02",
+    "name": "DIGIAL",
+    "count": 41,
+    "dist": 307
+  },
+  {
+    "id": "62a4cae28c166bda9a1213b1",
+    "date": "2018-10-26",
+    "name": "KINETICUT",
+    "count": 77,
+    "dist": 231
+  },
+  {
+    "id": "62a4cae291144f5ce8e64e3f",
+    "date": "2019-03-22",
+    "name": "GEEKETRON",
+    "count": 28,
+    "dist": 284
+  },
+  {
+    "id": "62a4cae24204811c4681b3b3",
+    "date": "2015-08-28",
+    "name": "XYQAG",
+    "count": 33,
+    "dist": 464
+  },
+  {
+    "id": "62a4cae263da277c4d6fa671",
+    "date": "2016-09-14",
+    "name": "BISBA",
+    "count": 37,
+    "dist": 797
+  },
+  {
+    "id": "62a4cae27524c75917e0fc6e",
+    "date": "2016-09-12",
+    "name": "MARTGO",
+    "count": 42,
+    "dist": 772
+  },
+  {
+    "id": "62a4cae2ccd4f4626211aed9",
+    "date": "2017-01-20",
+    "name": "ATOMICA",
+    "count": 73,
+    "dist": 585
+  },
+  {
+    "id": "62a4cae2bc2fc35c98252c0c",
+    "date": "2015-10-06",
+    "name": "TECHMANIA",
+    "count": 88,
+    "dist": 617
+  },
+  {
+    "id": "62a4cae2adae585538a78469",
+    "date": "2015-01-16",
+    "name": "AVIT",
+    "count": 21,
+    "dist": 220
+  },
+  {
+    "id": "62a4cae2a757ee3f4809d3a2",
+    "date": "2017-10-01",
+    "name": "NETUR",
+    "count": 90,
+    "dist": 831
+  },
+  {
+    "id": "62a4cae2ad893dce35c094f7",
+    "date": "2018-11-12",
+    "name": "VENDBLEND",
+    "count": 22,
+    "dist": 866
+  },
+  {
+    "id": "62a4cae2b1f5941f8d9e0fc2",
+    "date": "2021-02-11",
+    "name": "NURPLEX",
+    "count": 26,
+    "dist": 350
+  },
+  {
+    "id": "62a4cae23c3484b3a41ecb06",
+    "date": "2015-10-08",
+    "name": "IMAGINART",
+    "count": 28,
+    "dist": 344
+  },
+  {
+    "id": "62a4cae2340f291ef7a8e68b",
+    "date": "2018-11-27",
+    "name": "ISBOL",
+    "count": 68,
+    "dist": 230
+  },
+  {
+    "id": "62a4cae22a4c1c29bf25627a",
+    "date": "2019-01-29",
+    "name": "SONGBIRD",
+    "count": 48,
+    "dist": 580
+  },
+  {
+    "id": "62a4cae2501cb00b882a8472",
+    "date": "2016-09-12",
+    "name": "ZYTREX",
+    "count": 46,
+    "dist": 540
+  },
+  {
+    "id": "62a4cae2454747c4cb0385a7",
+    "date": "2015-02-08",
+    "name": "CORMORAN",
+    "count": 85,
+    "dist": 900
+  },
+  {
+    "id": "62a4cae20ca131c8e8c00adc",
+    "date": "2021-08-15",
+    "name": "CAXT",
+    "count": 79,
+    "dist": 292
+  },
+  {
+    "id": "62a4cae260a1946917fc9a61",
+    "date": "2017-08-17",
+    "name": "ACCUFARM",
+    "count": 85,
+    "dist": 883
+  },
+  {
+    "id": "62a4cae2eb0350bbe1dcb41d",
+    "date": "2014-11-01",
+    "name": "ORBALIX",
+    "count": 48,
+    "dist": 336
+  },
+  {
+    "id": "62a4cae2b37473af580e741a",
+    "date": "2018-09-23",
+    "name": "CANDECOR",
+    "count": 62,
+    "dist": 267
+  },
+  {
+    "id": "62a4cae2311da15623729bac",
+    "date": "2021-04-19",
+    "name": "APEX",
+    "count": 37,
+    "dist": 533
+  },
+  {
+    "id": "62a4cae275bd4fbb6320bef8",
+    "date": "2020-01-30",
+    "name": "IMKAN",
+    "count": 57,
+    "dist": 594
+  },
+  {
+    "id": "62a4cae289b6070875963d41",
+    "date": "2018-01-24",
+    "name": "KINETICA",
+    "count": 71,
+    "dist": 221
+  },
+  {
+    "id": "62a4cae2f53627b0d29c5df1",
+    "date": "2019-05-06",
+    "name": "ACCEL",
+    "count": 71,
+    "dist": 731
+  },
+  {
+    "id": "62a4cae28d98be45812e5fe8",
+    "date": "2022-02-01",
+    "name": "SURETECH",
+    "count": 40,
+    "dist": 403
+  },
+  {
+    "id": "62a4cae2014460661aaf4438",
+    "date": "2020-05-09",
+    "name": "CHORIZON",
+    "count": 44,
+    "dist": 452
+  },
+  {
+    "id": "62a4cae29ba9ca77822d0753",
+    "date": "2019-02-02",
+    "name": "QUORDATE",
+    "count": 70,
+    "dist": 309
+  },
+  {
+    "id": "62a4cae2cdc17da865c933c1",
+    "date": "2016-05-04",
+    "name": "FLOTONIC",
+    "count": 84,
+    "dist": 708
+  },
+  {
+    "id": "62a4cae269b5347921b12374",
+    "date": "2017-12-14",
+    "name": "ONTALITY",
+    "count": 21,
+    "dist": 768
+  },
+  {
+    "id": "62a4cae2bc7b5373527d8c9f",
+    "date": "2015-09-14",
+    "name": "ECRATER",
+    "count": 82,
+    "dist": 640
+  },
+  {
+    "id": "62a4cae2a9fc5db2712af204",
+    "date": "2016-06-08",
+    "name": "ZAYA",
+    "count": 40,
+    "dist": 370
+  },
+  {
+    "id": "62a4cae27f1e1f141e3b2fea",
+    "date": "2017-06-05",
+    "name": "MARVANE",
+    "count": 59,
+    "dist": 675
+  },
+  {
+    "id": "62a4cae23de314b08c55967f",
+    "date": "2014-12-11",
+    "name": "TELLIFLY",
+    "count": 63,
+    "dist": 675
+  },
+  {
+    "id": "62a4cae2f721d5a67d830dff",
+    "date": "2020-09-02",
+    "name": "COMTEXT",
+    "count": 64,
+    "dist": 237
+  },
+  {
+    "id": "62a4cae2527d8bce1eccd962",
+    "date": "2018-01-17",
+    "name": "EXOTERIC",
+    "count": 59,
+    "dist": 660
+  },
+  {
+    "id": "62a4cae249eab084731887d6",
+    "date": "2015-09-10",
+    "name": "KOFFEE",
+    "count": 69,
+    "dist": 237
+  },
+  {
+    "id": "62a4cae27d0386e8adf3bad3",
+    "date": "2016-09-28",
+    "name": "BULLZONE",
+    "count": 69,
+    "dist": 613
+  },
+  {
+    "id": "62a4cae2520f3215a5d92b95",
+    "date": "2021-07-03",
+    "name": "KATAKANA",
+    "count": 41,
+    "dist": 900
+  },
+  {
+    "id": "62a4cae20781be68b2902c92",
+    "date": "2021-07-18",
+    "name": "GAZAK",
+    "count": 25,
+    "dist": 381
+  },
+  {
+    "id": "62a4cae274a7e35594ecb18e",
+    "date": "2020-11-10",
+    "name": "PLAYCE",
+    "count": 32,
+    "dist": 228
+  },
+  {
+    "id": "62a4cae272e7fcd389f0fff7",
+    "date": "2017-10-12",
+    "name": "APPLICA",
+    "count": 56,
+    "dist": 511
+  },
+  {
+    "id": "62a4cae28d80dad6520b2fd5",
+    "date": "2018-07-30",
+    "name": "MANTRIX",
+    "count": 64,
+    "dist": 613
+  },
+  {
+    "id": "62a4cae275d7f6dbaf93c828",
+    "date": "2018-03-20",
+    "name": "ZIZZLE",
+    "count": 45,
+    "dist": 216
+  },
+  {
+    "id": "62a4cae2c9a6485622e53668",
+    "date": "2021-10-23",
+    "name": "PAWNAGRA",
+    "count": 60,
+    "dist": 407
+  },
+  {
+    "id": "62a4cae293800015b3f4901b",
+    "date": "2020-11-15",
+    "name": "PARLEYNET",
+    "count": 66,
+    "dist": 618
+  },
+  {
+    "id": "62a4cae23e620fcf3327f4f8",
+    "date": "2015-06-03",
+    "name": "REMOLD",
+    "count": 35,
+    "dist": 547
+  },
+  {
+    "id": "62a4cae2febfdb1850959861",
+    "date": "2017-09-08",
+    "name": "ISOTRACK",
+    "count": 22,
+    "dist": 479
+  },
+  {
+    "id": "62a4cae2cfb40deafd57590c",
+    "date": "2019-12-23",
+    "name": "WAAB",
+    "count": 65,
+    "dist": 809
+  },
+  {
+    "id": "62a4cae26d5c57ae6067d893",
+    "date": "2017-12-05",
+    "name": "BIZMATIC",
+    "count": 65,
+    "dist": 811
+  },
+  {
+    "id": "62a4cae2706ce1df401f8b11",
+    "date": "2017-09-10",
+    "name": "BUNGA",
+    "count": 47,
+    "dist": 290
+  },
+  {
+    "id": "62a4cae2c0aacd5b6a748c07",
+    "date": "2018-12-28",
+    "name": "TALKALOT",
+    "count": 79,
+    "dist": 547
+  },
+  {
+    "id": "62a4cae2adcdbb88aa5e1fc4",
+    "date": "2016-02-02",
+    "name": "COMCUBINE",
+    "count": 52,
+    "dist": 678
+  },
+  {
+    "id": "62a4cae22c48b46f7335874f",
+    "date": "2018-08-13",
+    "name": "ERSUM",
+    "count": 61,
+    "dist": 887
+  },
+  {
+    "id": "62a4cae2cfca04834bad8d31",
+    "date": "2022-06-02",
+    "name": "HOMETOWN",
+    "count": 42,
+    "dist": 765
+  },
+  {
+    "id": "62a4cae285816f179c3718f8",
+    "date": "2015-02-23",
+    "name": "SNACKTION",
+    "count": 73,
+    "dist": 596
+  },
+  {
+    "id": "62a4cae2dd683d8c1ffcb575",
+    "date": "2015-04-26",
+    "name": "ILLUMITY",
+    "count": 82,
+    "dist": 581
+  },
+  {
+    "id": "62a4cae2e5dab14e5fdb7757",
+    "date": "2015-06-01",
+    "name": "NAMEBOX",
+    "count": 31,
+    "dist": 255
+  },
+  {
+    "id": "62a4cae26384349bc0d82cdc",
+    "date": "2019-06-10",
+    "name": "ZOARERE",
+    "count": 23,
+    "dist": 675
+  },
+  {
+    "id": "62a4cae2e26c1ba47ec4c424",
+    "date": "2014-09-12",
+    "name": "SPEEDBOLT",
+    "count": 57,
+    "dist": 389
+  },
+  {
+    "id": "62a4cae2b780e4ecc11a6fe0",
+    "date": "2019-06-19",
+    "name": "SOLGAN",
+    "count": 48,
+    "dist": 469
+  },
+  {
+    "id": "62a4cae2693c6b4bf891904e",
+    "date": "2019-05-03",
+    "name": "STELAECOR",
+    "count": 74,
+    "dist": 467
+  },
+  {
+    "id": "62a4cae22530f04453127ec8",
+    "date": "2018-04-03",
+    "name": "EPLODE",
+    "count": 31,
+    "dist": 412
   }
 ]

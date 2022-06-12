@@ -1,9 +1,10 @@
-import React, {useEffect} from "react";
+import React, {useEffect, useState} from "react";
 import './App.scss';
 import {useDispatch, useSelector} from "react-redux";
 import {getData, setSortActionCreator} from "./redux/actions/items";
 import Table from "./components/Table";
 import TableFilters from "./components/TableFilters";
+import Pagination from "./common/Pagination/Pagination";
 
 
 const App = () => {
@@ -16,60 +17,16 @@ const App = () => {
 
     const data = useSelector(state => state.items);
 
+    const [pagination, setPagination] = useState({
+        firstIndex: '',
+        lastIndex: ''
+    });
+
+    const paginationData = data.data.slice(pagination.firstIndex, pagination.lastIndex);
+
     const setSort = (data) => {
         dispatch(setSortActionCreator(data));
     }
-
-    // const [sort, setSort] = useState({
-    //     input: '',
-    //     attrSort: '',
-    //     logicSort: ''
-    // });
-    //
-    // // const sortedItem = useMemo(() => {
-    // //     if (sort.attrSort) {
-    // //         return [...data.data].sort((a, b) => a[sort.attrSort].toString().localeCompare(b[sort.attrSort].toString()));
-    // //     }
-    // //     return data.data;
-    // // }, [sort.attrSort, data.data])
-    // //
-    // // const sortedAndSearchedItem = useMemo(() => {
-    // //     if (sort.logicSort === 'contain') {
-    // //         if (sort.attrSort === 'name') {
-    // //             return sortedItem.filter(el => el.name.toString().toLowerCase().includes(sort.input.toString().toLowerCase()))
-    // //         } else if (sort.attrSort === 'count') {
-    // //             return sortedItem.filter(el => el.count.toString().toLowerCase().includes(sort.input.toString().toLowerCase()))
-    // //         } else if (sort.attrSort === 'distance') {
-    // //             return sortedItem.filter(el => el.dist.toString().toLowerCase().includes(sort.input.toString().toLowerCase()))
-    // //         }
-    // //     } else if (sort.logicSort === 'more') {
-    // //         if (sort.attrSort === 'name') {
-    // //             return sortedItem;
-    // //         } else if (sort.attrSort === 'count') {
-    // //             return sortedItem.filter(el => el.count > parseInt(sort.input))
-    // //         } else if (sort.attrSort === 'distance') {
-    // //             return sortedItem.filter(el => el.dist > parseInt(sort.input))
-    // //         }
-    // //     } else if (sort.logicSort === 'less') {
-    // //         if (sort.attrSort === 'name') {
-    // //             return sortedItem;
-    // //         } else if (sort.attrSort === 'count') {
-    // //             return sortedItem.filter(el => el.count < parseInt(sort.input))
-    // //         } else if (sort.attrSort === 'distance') {
-    // //             return sortedItem.filter(el => el.dist < parseInt(sort.input))
-    // //         }
-    // //     } else if (sort.logicSort === 'equals') {
-    // //         if (sort.attrSort === 'name') {
-    // //             return sortedItem;
-    // //         } else if (sort.attrSort === 'count') {
-    // //             return sortedItem.filter(el => el.count === parseInt(sort.input))
-    // //         } else if (sort.attrSort === 'distance') {
-    // //             return sortedItem.filter(el => el.dist === parseInt(sort.input))
-    // //         }
-    // //     }
-    // //     return sortedItem;
-    // // }, [sort.input, sortedItem, sort.logicSort])
-
 
     return (
         <main className="main">
@@ -78,7 +35,14 @@ const App = () => {
                     <TableFilters sort={data.sort} setSort={setSort}/>
                 </div>
                 <div className="main__table">
-                    <Table data={data} />
+                    <Table data={paginationData}/>
+                </div>
+                <div className="main__pagination">
+                    <Pagination
+                        totalItemsCount={data.data.length}
+                        pagination={pagination}
+                        setPagination={setPagination}
+                    />
                 </div>
             </div>
         </main>

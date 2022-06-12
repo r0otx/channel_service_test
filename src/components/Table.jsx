@@ -17,7 +17,7 @@ const Table = ({data, sortedAndSearchedItem}) => {
                 ? <tr key={key} className="table__tr">
                     <td className="table__td">Loading...</td>
                 </tr>
-                : data.data.map(el =>
+                : data.map(el =>
                     <tr key={el.id} className="table__tr">
                         <td className="table__td">{el.date}</td>
                         <td className="table__td">{el.name}</td>

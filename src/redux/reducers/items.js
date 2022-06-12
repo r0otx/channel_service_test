@@ -34,20 +34,11 @@ const items = (state = initialState, {type, payload}) => {
                 isLoading: payload
             }
         case SET_SORT:
-            if (payload.attrSort !== '') {
-                return {
-                    ...state,
-                    data: [...state.data.sort((a, b) => a[payload.attrSort].toString().localeCompare(b[payload.attrSort].toString()))],
-                    sort: payload
-                }
-            } else if (payload.logicSort !== '') {
-                return  {
-                    ...state,
-                    data: state.data.filter(el => el.payload.logicSort.toString().toLowerCase().includes(payload.searchQuery.toString().toLowerCase())),
-                    sort: payload
-                }
+            return {
+                ...state,
+                data: [...state.data.sort((a, b) => a[payload.attrSort].toString().localeCompare(b[payload.attrSort].toString()))],
+                sort: payload
             }
-            return {...state, sort: {...payload}}
         default:
             return state;
     }

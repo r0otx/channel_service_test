@@ -122,7 +122,6 @@ body {
 
 .main {
   display: flex;
-  align-items: center;
   height: 100%;
   &__container {
 
@@ -139,6 +138,14 @@ body {
   }
   &__sort-item {
     margin: 5px;
+  }
+  &__pagination {
+    display: flex;
+    justify-content: center;
+    border-radius: 5px;
+    border: 1px dashed #fff;
+    margin: 10px 0;
+    padding: 10px 0;
   }
 }
 
