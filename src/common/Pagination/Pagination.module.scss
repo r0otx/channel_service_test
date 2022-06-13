@@ -1,4 +1,12 @@
 .pagination {
   padding: 5px;
   border: 1px solid #8dce5f;
+  &:first-child {
+    border-radius: 5px;
+    margin-right: 5px;
+  }
+  &:last-child {
+    border-radius: 5px;
+    margin-left: 5px;
+  }
 }
